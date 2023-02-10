@@ -1,6 +1,3 @@
-[werf](https://werf.io/) is a CLI tool for consistent delivery (CI/CD) that:
-* glues Git, Docker, container registry, Helm, and Kubernetes;
-* works with any CI system;
-* implements Giterminism.
+[werf](https://werf.io/) is a cross-platform CLI tool to implement best-practice full-cycle CI/CD to Kubernetes easily. werf integrates into your CI system and leverages familiar and reliable technologies, such as Git, Dockerfile, Helm, and Buildah. werf is a CNCF Sandbox project.
 
-Learn how it works from [this introduction](https://werf.io/introduction.html), follow us on [Twitter](https://twitter.com/werf_io), and ask your questions in [Telegram](https://t.me/werf_io).
+Use [this quickstart](https://werf.io/documentation/quickstart.html) to try it out, follow us on [Twitter](https://twitter.com/werf_io), and ask your questions in [Telegram](https://t.me/werf_io).
